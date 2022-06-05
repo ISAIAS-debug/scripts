@@ -5,10 +5,10 @@
 #
 #  Versão: v1.0
 #
-#  klinuxcontrol.sh - Script para monitorar kernel linux oficial.
+#  klinuxcontrol.sh - Script para obter kernel linux via terminal.
 #
 #  Descrição: O script representa um front-end para as versões linux oficiais
-#  disponibilizadas por Linus Trovalds. Permitira acompanhar novas versões e obte-las caso queira.
+#  disponibilizadas por Linus Trovalds. Permitirá acompanhar novas versões e obte-las caso queira.
 #
 #  Testado: /bin/bash e lynx
 #
